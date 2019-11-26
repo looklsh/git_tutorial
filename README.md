@@ -59,5 +59,8 @@
  - git clone 원저장소URL
  - git clone 원저장소Path
 
-
  ## 클라이언트 변경 발생
+ ## 서버 변경 사항 발생
+
+ - 수동으로 Conflict 해결
+
