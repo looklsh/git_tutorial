@@ -58,3 +58,5 @@
  
  - git clone 원저장소URL
  - git clone 원저장소Path
+
+## 서버 변경 사항 발생
