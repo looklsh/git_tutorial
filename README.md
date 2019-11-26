@@ -47,7 +47,7 @@
 
  ## 태그 달기
 
- - git log애소 commit의 ID를 확인
+ - git log 에서 commit의 ID를 확인
  - git tag 태그명 commitID
 
  - 태그 업로드
